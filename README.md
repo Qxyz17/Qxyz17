@@ -7,5 +7,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qxyz17/Qxyz17/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qxyz17&theme=github_dark&show_icons=true&show=reviews&hide=contribs&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qxyz17&layout=compact&theme=github_dark&hide_border=true)
