@@ -1,6 +1,6 @@
 ### Welcome! This is the <img align="middle" src="https://count.getloli.com/@Qxyz17?name=Qxyz17&darkmode=auto"> the visit.
 ### **Skills:**
-[![My Skills](https://skillicons.dev/icons?i=arch,bash,git,github,linux,md,pycharm,py,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,git,github,windows,md,pycharm,py,vscode)](https://skillicons.dev)
 ### **GitHub Stats**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qxyz17/Qxyz17/output/github-contribution-grid-snake-dark.svg" />
